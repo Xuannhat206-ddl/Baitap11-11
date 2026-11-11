@@ -8,6 +8,8 @@
 
 **Mã sinh viên:** 24810310475
 
+
+
 ## 1. Màn hình Chính / Tổng quan hệ thống:
 
 ![Màn hình chính](images/01_main_screen.png)
